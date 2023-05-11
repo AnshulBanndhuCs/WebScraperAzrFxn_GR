@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "InstrumentationKey=169cd7ad-9e0f-4d43-8006-3b335096fd5a;IngestionEndpoint=https://eastus-8.in.applicationinsights.azure.com/;LiveEndpoint=https://eastus.livediagnostics.monitor.azure.com/",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobs.WebScraperProjectFxn_01.Disabled": "true"
+  }
+}
